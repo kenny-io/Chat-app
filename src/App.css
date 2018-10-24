@@ -1,0 +1,16 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  width: 500px;
+  margin: 30px auto;
+  background-color: #fff;
+} 
+
+/* #chat-input{
+   width: 500px;
+  margin: 30px auto;
+  background-color: #fff;
+
+} */
